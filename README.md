@@ -10,7 +10,7 @@ Autor: **Marilene Esquiavoni** & **Denny Paulista Azevedo Filho**
 
 _Estes códigos estão sobre a licença_ **MIT**
 
-Copyright (c) 2019 - Marilene Esquiavoni & Denny Paulista Azevedo Filho
+Copyright (c) 2017 - Marilene Esquiavoni & Denny Paulista Azevedo Filho
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
