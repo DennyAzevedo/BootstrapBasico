@@ -2,7 +2,7 @@
 
 ### Uso principal: Framework Boostrap - HTML, CSS e JavaScript
 
-Utilizados nas aulas da disciplina de **Linguagem de Programação 1 e 2** 
+Utilizados nas aulas da disciplina de **Linguagem de Programação 1 e 2 - PG1 e PG2** 
 do curso de **Informática para Internet** do Instituto Federal 
 de São Paulo, _campus_ Caraguatatuba.
 
